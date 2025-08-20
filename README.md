@@ -18,7 +18,9 @@ A simple **QR Code Generator** built with **Node.js**, using:
 1. Clone the repository:
    git clone https://github.com/your-username/qr-generator.git
    cd qr-generator
+
 2.Install dependencies:
    npm install inquirer qr-image
+   
 3.Run the project with:
    node index.js
