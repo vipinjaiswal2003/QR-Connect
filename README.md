@@ -1,4 +1,4 @@
-# QR Code Generator (Node.js CLI)
+# QRConnect (Node.js CLI)
 
 A simple **QR Code Generator** built with **Node.js**, using:
 - [inquirer](https://www.npmjs.com/package/inquirer) → to take user input from the terminal.
@@ -15,8 +15,8 @@ A simple **QR Code Generator** built with **Node.js**, using:
 
 ## 📦 Installation
 1. Clone the repository:
-   git clone https://github.com/vipinjaiswal2003/QR-generator.git
-   cd qr-generator
+   git clone https://github.com/vipinjaiswal2003/QR-Connect.git
+   cd qr-connect
 2. Install dependencies:
    npm install inquirer qr-image
    
